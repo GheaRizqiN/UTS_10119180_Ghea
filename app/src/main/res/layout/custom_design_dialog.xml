@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="hello, my name is ghea rizqi nabilla.
+my friends used to call me ghea or lala.
+I am 20 years old, I was born in Bandung on December 14, 2001.
+I am interested in various Korean cultures, until now I have a group order business.
+I am basically a kind hearted person and quite sympathetic and sensitive.
+I never lose an opportunity to help my friends or anyone else. I face all situations bravely and boldly.
+I believe that mutual cooperation is a way to success and like to help people whenever they seek my help.
+I would like to develop all my existing qualities to the maximum level of perfection, as such I would like to go for positive experiences in my life because experience is the best teacher of a human being."
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/dialog"
+        android:layout_alignRight="@+id/dialog"
+        android:layout_below="@+id/dialog"
+        android:text="OK" />
+
+</RelativeLayout>
