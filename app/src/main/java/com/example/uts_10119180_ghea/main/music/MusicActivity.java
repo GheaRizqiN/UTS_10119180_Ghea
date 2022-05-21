@@ -19,7 +19,7 @@ import com.example.uts_10119180_ghea.main.gallery.GalleryActivity;
 import com.example.uts_10119180_ghea.main.profile.ProfileActivity;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-//3 May 2022, Ghea Rizqi Nabilla, IF5
+//3 May 2022, Ghea Rizqi Nabilla, Kelas IF5
 public class MusicActivity extends Activity {
 
     // Array of strings...
